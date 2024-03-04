@@ -13,6 +13,4 @@ Rockbuster Stealth LLC, a movie rental company, To stay competitive with other s
 ## Tableau visualizations of the analysis:
 
 [Tableau visualizations for Rockbuster Stealth](https://public.tableau.com/app/profile/mounika.achchannagari/vizzes)
-Context: Rockbuster is a fictional movie
-rental company.
 
